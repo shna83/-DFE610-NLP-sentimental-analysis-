@@ -28,7 +28,7 @@
   - Friends
     - 데이터 전처리 방법
     
-    - ELECTRA 모델
+    - ELECTRA 모델 : test accuracy = 54.97%
   
   
 3. 참고 사이트
