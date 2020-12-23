@@ -21,8 +21,8 @@
     - ELECTRA 모델
   
 3. 참고 사이트
-1. https://wikidocs.net/85337
-2. https://wikidocs.net/44249
-3. https://wikidocs.net/48920
-4. https://github.com/jiwonny/nlp_emotion_classification
+   - https://wikidocs.net/85337
+   - https://wikidocs.net/44249
+   - https://wikidocs.net/48920
+   - https://github.com/jiwonny/nlp_emotion_classification
 
