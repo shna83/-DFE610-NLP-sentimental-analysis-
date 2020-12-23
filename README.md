@@ -24,7 +24,6 @@
     - Bi-LSTM & Attetion 모델 : test accuracy = 84.21%
     - KoELECTRA 모델 : test accuracy = 90.0%
     
-    
   - Friends
     - 데이터 전처리 방법
     
