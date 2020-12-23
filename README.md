@@ -5,6 +5,11 @@
 
 ▷ Bert 모델인 KoELECTRA 모델의 성능이 우수하여, Friends 데이터의 경우 ElECTRA 모델 사용하여 모델 구현
 
+▷ 실행 환경
+   - 클라우드 서버와 GPU를 제공하는 colab에서 구현
+   - GPU의 경우 GOOGLE에서 랜덤으로 제공
+   - 
+   
 
 ☆ NSMC(Naver Sentiment Movie Corpus) 모델 구현
 
@@ -13,4 +18,8 @@
 □ 모델 구현
 
 □ 참고 사이트
+1. https://wikidocs.net/85337
+2. https://wikidocs.net/44249
+3. https://wikidocs.net/48920
+4. https://github.com/jiwonny/nlp_emotion_classification
 
