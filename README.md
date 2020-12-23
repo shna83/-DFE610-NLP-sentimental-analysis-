@@ -28,6 +28,8 @@
   - Friends
     - 데이터 전처리 방법
     
+      Bert 모델로 [CLS]와 [SEP]로 구성된 문장으로 전처리하여 Pre-trained ELECTRA 토큰화
+    
     - ELECTRA 모델 : test accuracy = 54.97%
   
   
