@@ -18,11 +18,13 @@
       
       중복데이터 제거 → null값 제거 → 특수문자 및 공백 등 제거를 통한 한글 정규화 → 불용어 제거 → 형태소 토큰화(Okt 사용) → 정수 인코딩 → 낮은 등장 빈도수 제거 및 빈 샘플 제거 → 샘플 길이의 통일을 위한 패딩
     
-    - CNN 모델
-    - LSTM 모델
-    - Bi-LSTM 모델
-    - Bi-LSTM & Attetion 모델
-    - KoELECTRA 모델
+    - CNN 모델 : accuracy = 
+    - LSTM 모델 : accuracy =
+    - Bi-LSTM 모델 : accuracy =
+    - Bi-LSTM & Attetion 모델 : accuracy =
+    - KoELECTRA 모델 : accuracy =
+    
+    
   - Friends
     - 데이터 전처리 방법
     - ELECTRA 모델
