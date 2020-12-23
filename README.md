@@ -11,6 +11,7 @@
       - NSMC 다운로드 경로 : https://github.com/e9t/nsmc
       - Friends 다운로드 경로 : http://doraemon.iis.sinica.edu.tw/emotionlines/download.html
    
+   
 2. 감성분석 모델 구현
   - NSMC(Naver Sentiment Movie Corpus)
     - 데이터 전처리 방법
@@ -25,6 +26,7 @@
   - Friends
     - 데이터 전처리 방법
     - ELECTRA 모델
+  
   
 3. 참고 사이트
    - https://wikidocs.net/85337
