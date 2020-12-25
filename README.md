@@ -20,13 +20,8 @@
     
     - CNN, LSTM, Bi-LSTM, Bi-LSTM & Attention, KoELECTRA 모델 구축
     - 모델 구축 환경
-    |     no |          model      |     embedding |     layer |     activation function |       loss function  |     optimizer |     batch |     epoch |     accuracy |
-    |:------:|:-------------------:|:-------------:|:---------:|:-----------------------:|:--------------------:|:-------------:|:---------:|:---------:|:------------:|
-    |      1 |         CNN         |      128      |    128    |           Relu          | Binary Cross Entropy |      Adam     |     64    |     15    |    83.76%    |
-    |      2 |         LSTM        |      128      |    128    |         Sigmoid         | Binary Cross Entropy |      Adam     |     64    |     15    |    84.32%    |
-    |      3 |       Bi-LSTM       |      128      |    128    |         Sigmoid         | Binary Cross Entropy |      Adam     |     64    |     15    |    84.40%    |
-    |      4 | Bi-LSTM & Attention |      128      |    128    |           Relu          | Binary Cross Entropy |      Adam     |     64    |     15    |    84.21%    |
-    |      5 |      KoELECTRA      |      128      |    128    |           Gelu          | Binary Cross Entropy |      Adam     |     10    |     2     |    89.50%    |
+![model 비교](https://user-images.githubusercontent.com/73410906/103127240-4fc12080-46d4-11eb-9131-970a446fdb67.jpg)
+
     
     
   - Friends
