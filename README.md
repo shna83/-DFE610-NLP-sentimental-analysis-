@@ -7,9 +7,11 @@
   - 실행 환경 및 방법
     - 클라우드 서버와 GPU를 제공하는 colab에서 구현
     - GPU의 경우 GOOGLE에서 랜덤으로 제공
+    - 구글드라이브와 colab 연동 설정 필요(Friends 데이터 사용 및 최종 결과값 CSV 산출 시 필요)
     - colab에서 GPU 설정 후 순서대로 코드 실행 (구글드라이브 연동 필요)
       - NSMC 다운로드 경로 : https://github.com/e9t/nsmc
       - Friends 다운로드 경로 : http://doraemon.iis.sinica.edu.tw/emotionlines/download.html
+        - Friends 데이터의 경우 압축해제 후 사용 필요
    
    
 2. 감성분석 모델 구현
