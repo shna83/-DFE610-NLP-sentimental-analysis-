@@ -20,7 +20,7 @@
     
     - CNN, LSTM, Bi-LSTM, Bi-LSTM & Attention, KoELECTRA 모델 구축
     - 모델 구축 환경
-![model 비교](https://user-images.githubusercontent.com/73410906/103127240-4fc12080-46d4-11eb-9131-970a446fdb67.jpg)
+![model 비교](https://user-images.githubusercontent.com/73410906/103128258-f5c25a00-46d7-11eb-88b7-f41408b5fe82.jpg)
 
     
     
