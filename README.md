@@ -3,9 +3,9 @@
 
 1. 감성분석 모델링 개요
   - NSMC 데이터를 이용하여 CNN, LSTM, Bi-LSTM, Bi-LSTM & Attention, KoELECTRA 모델 중 성능 좋은 모델 선택
-  - Bert 모델인 KoELECTRA 모델의 성능이 우수하여, Friends 데이터의 경우 ElECTRA 모델 사용하여 모델 구현
+  - Bert 모델인 KoELECTRA 모델의 성능이 우수하여, Friends 데이터의 경우 ELECTRA 모델 사용하여 모델 구현
   - 실행 환경 및 방법
-    - 클라우드 서버와 GPU를 제공하는 colab에서 구현
+    - 클라우드 서버와 GPU를 제공하는 colab에서 구현(colab 런타임 탭에서 런타임 유형 변경: GPU 선택)
     - GPU의 경우 GOOGLE에서 랜덤으로 제공
     - 구글드라이브와 colab 연동 설정 필요(Friends 데이터 사용 및 최종 결과값 CSV 산출 시 필요)
     - colab에서 GPU 설정 후 순서대로 코드 실행 (구글드라이브 연동 필요)
