@@ -16,13 +16,15 @@
   - NSMC(Naver Sentiment Movie Corpus)
     - 데이터 전처리 방법
       
-      중복데이터 제거 → null값 제거 → 특수문자 및 공백 등 제거를 통한 한글 정규화 → 불용어 제거 → 형태소 토큰화(Okt 사용) → 정수 인코딩 → 낮은 등장 빈도수 제거 및 빈 샘플 제거 → 샘플 길이의 통일을 위한 패딩
+      중복 및 null값 데이터 제거 → 특수문자 및 공백 등 제거를 통한 한글 정규화 → 불용어 제거 및 형태소 토큰화(Okt()) → 정수 인코딩 → 빈 샘플 제거 및 패딩
     
-    - CNN 모델 : test accuracy = 83.76%
-    - LSTM 모델 : test accuracy = 84.96%
-    - Bi-LSTM 모델 : test accuracy = 85.25%
-    - Bi-LSTM & Attetion 모델 : test accuracy = 84.21%
-    - KoELECTRA 모델 : test accuracy = 90.0%
+    - CNN, LSTM, Bi-LSTM, Bi-LSTM & Attention, KoELECTRA 모델 구축
+    - 모델 구축 환경
+    |no|model|embeddubg|layer|activation function|loss function|optimizer|batch|epoch|accuracy|   
+    |--|-----|---------|-----|-------------------|-------------|---------|-----|-----|--------|   
+    |1 |
+    
+    
     
   - Friends
     - 데이터 전처리 방법
