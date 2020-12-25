@@ -40,4 +40,5 @@
    - https://wikidocs.net/48920
    - https://github.com/jiwonny/nlp_emotion_classification
    - https://github.com/google-research/electra
+   - https://github.com/monologg/KoELECTRA
 
