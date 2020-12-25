@@ -12,6 +12,7 @@
       - NSMC 다운로드 경로 : https://github.com/e9t/nsmc
       - Friends 다운로드 경로 : http://doraemon.iis.sinica.edu.tw/emotionlines/download.html
         - Friends 데이터의 경우 압축해제 후 사용 필요
+      - 순서대로 코드 실행하였음에도 불구하고 error가 발생하는 경우는 !pip install 부분으로 다음 install 셀 실행 후 다시 실행
    
    
 2. 감성분석 모델 구현
